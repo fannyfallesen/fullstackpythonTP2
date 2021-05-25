@@ -1,0 +1,53 @@
+/**** Imagenes ****/
+.Catalogo{
+  width: 15%;
+  margin-left: 10%
+}
+
+.Lody{
+  width: 31%;
+  margin-left: 10%
+}
+
+.Lodym{
+  width: 31%;
+  margin-left: 10%;
+}
+
+.Sigry{
+  width: 17.3%;
+  margin-left: 10%
+}
+
+.Kolper{
+  width: 17.3%;
+  margin-left: 10%
+}
+
+
+#Catalogos  > div{
+  height: auto;
+  margin-top: 0.5%;
+  flex-direction: row;
+   flex-wrap: wrap;
+   justify-content:space-around;
+   align-items: center;
+  box-shadow: 0 0 1rem 0.3rem rgba(0, 0, 0, 0.15);
+}
+
+/**** Texto ****/
+#Trabajamos{
+  justify-content: center;
+  text-align: center;
+    font-size: 250%;
+    padding: 10px 0;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+
+/*** Navbar ****/
+#Inicio{
+  background-color: #ff9a8c;
+  text-decoration:none;
+}

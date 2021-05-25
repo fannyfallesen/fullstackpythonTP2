@@ -1,0 +1,15 @@
+
+/**** Imagenes ****/
+.Productos{
+  width: 21%;
+  float: left;
+}
+
+
+/**** Texto ****/
+ p{
+  font-size: 150%;
+  text-align: right;
+  text-align: center;
+  margin: 8%;
+}

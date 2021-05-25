@@ -1,0 +1,45 @@
+
+/**** Imagenes ****/
+.Productos{
+  width: 21%;
+  margin: 3%;
+  padding-left: 5%;
+}
+
+
+
+#Catalogos  > div{
+  display: flex;
+  height: auto;
+  flex-direction: row;
+   flex-wrap: wrap;
+   justify-content:center;
+   align-items: center;
+  box-shadow: 0 0 1rem 0.3rem rgba(0, 0, 0, 0.15);
+
+}
+
+
+/*** Navbar ****/
+#Mujeres{
+  background-color: #ff9a8c;
+  text-decoration:none;
+}
+
+
+/**** Texto ****/
+h2{
+  justify-content: center;
+  text-align: center;
+    font-size: 250%;
+    padding: 10px 0;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+p{
+  justify-content: center;
+  text-align: center;
+    font-size: 150%;
+    padding: 10px 0;
+}
